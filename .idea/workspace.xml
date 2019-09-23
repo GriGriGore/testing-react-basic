@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f86257e-3e08-49d9-90d8-d0105bbc7efe" name="A2" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App-2.test.js" afterDir="false" />
+    <list default="true" id="d7890f03-dc72-4046-8d76-ba83d0f7ef40" name="A3" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App-3.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="8a2c0e5d-6402-4244-b86a-62188c3a198a" name="Default Changelist" comment="" />
@@ -19,21 +19,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App-2.test.js">
+        <entry file="file://$PROJECT_DIR$/src/App-3.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="340">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-2.js">
+        <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-3.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <caret column="32" selection-start-column="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -44,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="A2" />
+        <entry key="$PROJECT_DIR$" value="A3" />
       </map>
     </option>
   </component>
@@ -53,6 +54,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/App-1.test.js" />
         <option value="$PROJECT_DIR$/src/App-2.test.js" />
+        <option value="$PROJECT_DIR$/src/App-3.test.js" />
       </list>
     </option>
   </component>
@@ -145,23 +147,34 @@
       <updated>1569260184184</updated>
       <workItem from="1569258716028" duration="1212000" />
     </task>
-    <task active="true" id="LOCAL-00002" summary="A2">
+    <task id="LOCAL-00002" summary="A2">
       <branch name="A2" repository="D:\WORKSPACE\IntelliJ\fullstack-react\testing-react-basics" />
-      <changelist id="2f86257e-3e08-49d9-90d8-d0105bbc7efe" name="A2" comment="" />
+      <branch name="A3" repository="D:\WORKSPACE\IntelliJ\fullstack-react\testing-react-basics" original="true" />
+      <changelist id="" name="A2" comment="" />
       <created>1569260181988</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1569260184198</updated>
-      <workItem from="1569260184348" duration="796000" />
+      <updated>1569261768932</updated>
+      <workItem from="1569260184348" duration="1405000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task active="true" id="LOCAL-00003" summary="A3">
+      <branch name="A3" repository="D:\WORKSPACE\IntelliJ\fullstack-react\testing-react-basics" />
+      <changelist id="d7890f03-dc72-4046-8d76-ba83d0f7ef40" name="A3" comment="" />
+      <created>1569261764709</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569261768947</updated>
+      <workItem from="1569261769018" duration="908000" />
+    </task>
+    <option name="localTasksCounter" value="4" />
     <option name="createBranch" value="false" />
     <option name="useBranch" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3274000" />
+    <option name="totallyTimeSpent" value="4791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="846" height="822" extended-state="0" />
@@ -255,6 +268,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App-3.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
