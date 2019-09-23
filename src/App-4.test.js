@@ -50,6 +50,13 @@ describe('App', () => {
                 wrapper.state().item
             ).toEqual(item);
         });
+
+        it('should enable `button`', () => {
+            const button = wrapper.find('button').first();
+            expect(
+                button.props().disabled
+            ).toBe(false);
+        });
     });
 
 });
