@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ef073c9-2421-4a6d-8089-46fceeb497bd" name="A1" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App-1.test.js" afterDir="false" />
+    <list default="true" id="2f86257e-3e08-49d9-90d8-d0105bbc7efe" name="A2" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App-2.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="8a2c0e5d-6402-4244-b86a-62188c3a198a" name="Default Changelist" comment="" />
@@ -19,22 +19,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App-1.test.js">
+        <entry file="file://$PROJECT_DIR$/src/App-2.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="119">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-1.js">
+        <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-2.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#36#60#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,7 +44,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="A1" />
+        <entry key="$PROJECT_DIR$" value="A2" />
       </map>
     </option>
   </component>
@@ -54,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/App-1.test.js" />
+        <option value="$PROJECT_DIR$/src/App-2.test.js" />
       </list>
     </option>
   </component>
@@ -135,23 +134,34 @@
       <updated>1569258715885</updated>
       <workItem from="1569255643291" duration="1266000" />
     </task>
-    <task active="true" id="LOCAL-00001" summary="A1">
+    <task id="LOCAL-00001" summary="A1">
       <branch name="A1" repository="D:\WORKSPACE\IntelliJ\fullstack-react\testing-react-basics" />
-      <changelist id="6ef073c9-2421-4a6d-8089-46fceeb497bd" name="A1" comment="" />
+      <branch name="A2" repository="D:\WORKSPACE\IntelliJ\fullstack-react\testing-react-basics" original="true" />
+      <changelist id="" name="A1" comment="" />
       <created>1569258713861</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1569258715902</updated>
-      <workItem from="1569258716028" duration="591000" />
+      <updated>1569260184184</updated>
+      <workItem from="1569258716028" duration="1212000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task active="true" id="LOCAL-00002" summary="A2">
+      <branch name="A2" repository="D:\WORKSPACE\IntelliJ\fullstack-react\testing-react-basics" />
+      <changelist id="2f86257e-3e08-49d9-90d8-d0105bbc7efe" name="A2" comment="" />
+      <created>1569260181988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569260184198</updated>
+      <workItem from="1569260184348" duration="796000" />
+    </task>
+    <option name="localTasksCounter" value="3" />
     <option name="createBranch" value="false" />
     <option name="useBranch" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1857000" />
+    <option name="totallyTimeSpent" value="3274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="846" height="822" extended-state="0" />
@@ -227,8 +237,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App-1.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="17">
+          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App-2.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
