@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d67c48b6-8b49-4027-838f-a85b6546744f" name="A5" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App-5.test.js" afterDir="false" />
+    <list default="true" id="eebca721-54bf-46fc-a826-f3fe67adf130" name="A6" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App-6.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="8a2c0e5d-6402-4244-b86a-62188c3a198a" name="Default Changelist" comment="" />
@@ -19,44 +19,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App-5.test.js">
+        <entry file="file://$PROJECT_DIR$/src/App-6.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="80" column="7" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="80" selection-end-column="7" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="64" column="7" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App-4.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
+            <state relative-caret-position="-942" />
           </provider>
         </entry>
       </file>
@@ -66,7 +31,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="A5" />
+        <entry key="$PROJECT_DIR$" value="A6" />
       </map>
     </option>
   </component>
@@ -180,13 +145,23 @@
       <updated>1569260184198</updated>
       <workItem from="1569260184348" duration="796000" />
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task active="true" id="LOCAL-00005" summary="A6">
+      <branch name="A6" repository="D:\WORKSPACE\IntelliJ\fullstack-react\testing-react-basics" />
+      <changelist id="eebca721-54bf-46fc-a826-f3fe67adf130" name="A6" comment="" />
+      <created>1569268316681</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569268317871</updated>
+      <workItem from="1569268318614" duration="1443000" />
+    </task>
+    <option name="localTasksCounter" value="6" />
     <option name="createBranch" value="false" />
     <option name="useBranch" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5058000" />
+    <option name="totallyTimeSpent" value="6788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="846" height="822" extended-state="0" />
@@ -303,14 +278,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App-4.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="299">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="265">
           <caret line="64" column="7" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -330,9 +305,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App-5.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        <state relative-caret-position="180">
+          <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/complete/App.test.complete-6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App-6.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-942" />
       </provider>
     </entry>
   </component>
